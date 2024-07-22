@@ -29,9 +29,9 @@ This project creates or updates a CloudWatch dashboard to monitor API Gateway me
    ```bash
    aws configure
 
-4. **Update Region**
+4. **Update Region & API ID**
 
-   Update the AWS region in the monitor.js to your preferred region
+   Update the AWS region and API ID in the monitor.js.
 
 5. **Running the Script**
 
